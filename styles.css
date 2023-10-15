@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+.Google{
+    color: blue;
+}
+
+fieldset{
+    display: inline;
+}
+textarea {
+    border-radius: 5%;
+}
+
+input {
+    width: 400px;
+    height: 20px;
+}
